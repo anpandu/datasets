@@ -1,5 +1,6 @@
-# Datasets
+# List of Datasets
 ```
+> wc -l *.csv | sort -h
        13 noisy_xor.csv
        46 donner_party.csv
       300 heart_failure.csv
@@ -30,4 +31,9 @@
    129881 airline_passenger_satisfaction.csv
    318852 beijing.csv
    660839 total
+```
+# Commands
+```
+> gzip -k9 example.csv   # compress
+> gzip -d example.csv.gz # decompress
 ```
