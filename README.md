@@ -1,0 +1,33 @@
+# Datasets
+```
+       13 noisy_xor.csv
+       46 donner_party.csv
+      300 heart_failure.csv
+      421 arrhythmia.csv
+      506 boston_housing.csv
+      521 diabetes.csv
+      569 breast_cancer_wisconsin.csv
+      768 diabetes3.csv
+      892 titanic.csv
+     2841 noisy_circle2.csv
+     2844 noisy_circle3.csv
+     2855 noisy_circle4.csv
+     2870 noisy_circle.csv
+     3134 noisy_xor2.csv
+     4178 abolone.csv
+     5001 diamonds_encoded_scaled_5000.csv
+     5001 waveform.csv
+     5668 noisy_circle5.csv
+     5876 parkinsons.csv
+    10001 noisy_.csv
+    10001 Xor_Dataset.csv
+    13581 melbourne_house_prices.csv
+    13933 miami-housing.csv
+    20641 california_housing.csv
+    30000 beijing-30k.csv
+    30001 default_credit_card_clients.csv
+    39644 online_news_popularity.csv
+   129881 airline_passenger_satisfaction.csv
+   318852 beijing.csv
+   660839 total
+```
